@@ -15,8 +15,8 @@ public class Estudiante
      * Constructor  
      */
     public Estudiante(String queNombre, int queNota)    {
-        nombre = queNombre;
-        nota = queNota;
+        this.nombre = queNombre;
+        this.nota = queNota;
          
     }
 
